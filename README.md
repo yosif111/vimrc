@@ -1,9 +1,1 @@
-# SWE211
-# SWE211-Junit
-# SWE211-Junit
-# CSC113-Project
-# CSC113-Project
-# CSC113-Project
-# SleepCalculator_IOSApp
-# cask
 # vimrc
